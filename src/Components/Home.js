@@ -19,7 +19,8 @@ const Home = () => {
                 Your Favorite Food Delivered Hot & Fresh
             </h1>
             <p className="primary-text">
-              Text here..text here.. text here..text here
+              lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+            Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.   
             </p>
             <button className="secondary-button">
               Order Now <FiArrowRight/>

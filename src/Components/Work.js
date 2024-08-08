@@ -8,17 +8,20 @@ const Work = () => {
         {
             image: PickMeals,
             title: "Pick Meals",
-            text:  "gdfjlk jgdfklgjfk kjfgdklgjkg jdfgkfkdjg gdfgfd df",
+            text:  " lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+            Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.   ",
         },
         {
             image: ChooseMeals,
             title: "Choose How Often",
-            text:  "gdfjlk jgdfklgjfk kjfgdklgjkg jdfgkfkdjg gdfgfd df",
+            text:  " lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+            Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.   ",
         },
         {
             image: DeliveryMeals,
             title: "Fast Deliveries",
-            text:  "gdfjlk jgdfklgjfk kjfgdklgjkg jdfgkfkdjg gdfgfd df",
+            text:  " lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+            Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.   ",
         },
     ];
   return (
@@ -27,7 +30,8 @@ const Work = () => {
             <p className="primary-subheading"> Work </p>
             <h1 className="primary-heading">How It Works</h1>
             <p className="primary-text">
-                hjhjhldg lkhgdflghl kldgfjgkl kldfgjk dfkgjfdklgj dflkgjkg
+                lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+            Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.   
             </p>
         </div >
         <div className="work-section-bottom">

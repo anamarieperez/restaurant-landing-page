@@ -18,12 +18,8 @@ const About = () => {
                 Food Is An Important Part Of A Balance Diet
             </h1>
             <p className="primary-text">
-                ghghdhgfh fdgjjhjhjhj gdfgfgdg ddfdf nav
-                hgjjhj fhgfh
-            </p>
-            <p className="primary-text">
-                ghghdhgfh fdgjjhjhjhj gdfgfgdg ddfdf nav
-                hgjjhj fhgfh
+                lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+            Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.                
             </p>
             <div className="about-buttons-container">
                 <button className="secondary-button"> Learn More </button>

@@ -9,13 +9,14 @@ const Testimonial = () => {
         <p className="primary-subheading"> Work </p>
             <h1 className="primary-heading">What Are They Saying</h1>
             <p className="primary-text">S
-                hjhjhldg lkhgdflghl kldgfjgkl kldfgjk dfkgjfdklgj dflkgjkg
+                 lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+            Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.   
             </p>
         </div>
         <div className="testimonial-section-bottom">
             <img src={ProfilePic} alt=""/>
-            <p>dshfsdlkh lshdfjfhdj sdhflsdhf lkdskj sdjfds dslkjfdsfj
-                kjdksj ksjdkfjk ksdjfksdjf l n nsdl
+            <p> lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+            Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.   
             </p>
             <div className="testimonials-stars-container"> 
             <AiFillStar/>
