@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from "./Navbar";
-import bannerbackground from "../Assets/home-banner-background.png";
+import bannerbackground from "../Assets/home-banner-background-a.png";
 import bannerimage from "../Assets/home-banner-image.png";
 import {FiArrowRight} from "react-icons/fi";
 const Home = () => {

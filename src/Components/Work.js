@@ -1,27 +1,24 @@
 import React from "react";
-import PickMeals from "../Assets/pick-meals-image.png";
-import ChooseMeals from "../Assets/choose-image.png";
-import DeliveryMeals from "../Assets/delivery-image.png";
+import PickMeals from "../Assets/pick-meals-image-a.png";
+import ChooseMeals from "../Assets/choose-image-a.png";
+import DeliveryMeals from "../Assets/delivery-image-a.png";
 
 const Work = () => {
     const WorkInfoData = [
         {
             image: PickMeals,
             title: "Pick Meals",
-            text:  " lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-            Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.   ",
+            text:  " lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.   ",
         },
         {
             image: ChooseMeals,
             title: "Choose How Often",
-            text:  " lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-            Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.   ",
+            text:  " lorem ipsum dolor sit amet, consectetur adipiscing elit.do eiusmod tempor incididunt ut labore et dolore magna aliqua.   ",
         },
         {
             image: DeliveryMeals,
             title: "Fast Deliveries",
-            text:  " lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-            Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.   ",
+            text:  " lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.   ",
         },
     ];
   return (

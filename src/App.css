@@ -64,6 +64,10 @@ nav {
   margin-right:2rem;
 }
 
+.navbar-cart-icon:hover {
+  color: #1d0fe4;
+}
+
 .primary-button:hover {
   background-color: rgb(234, 234, 234);
 }
@@ -116,14 +120,14 @@ nav {
 
 .secondary-button {
   padding: 1rem 2.5rem;
-  background-color: #fe9e0d;
+  background-color: #DDBDD5;
   outline: none;
   border: none;
   border-radius: 5rem;
   font-size: 1.1rem;
   cursor: pointer;
   font-weight: 600;
-  color: white;
+  color: #4A051C;
   transition: 0.2s;
   display: flex;
   align-items: center;
@@ -137,6 +141,7 @@ nav {
 
 .secondary-button:hover {
   background-color: #1d0fe4;
+  color:white;
 }
 
 .about-section-container {
@@ -167,7 +172,7 @@ nav {
 
 .primary-subheading {
   font-weight: 700;
-  color: #fe9e0d;
+  color: #4A051C;
   font-size: 1.15rem;
 }
 
@@ -279,7 +284,7 @@ nav {
 .testimonials-stars-container svg {
   margin: 0rem 0.25rem;
   font-size: 1.5rem;
-  color: #fe9e0d;;
+  color: #4A051C;;
 }
 
 .testimonial-section-bottom h2 {
